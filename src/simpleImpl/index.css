@@ -1,0 +1,15 @@
+table.data th {
+    background-color: #f20033;
+}
+
+table.data tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+div.add {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 5px;
+  margin: 5px;
+}
